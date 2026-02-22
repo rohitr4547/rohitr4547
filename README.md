@@ -2,9 +2,9 @@
 Graduate Student of Computer Science @ Columbia · Machine Learning · NLP · Computer Vision
 
 🧠 Building at the intersection of LLMs, Computer Vision, and Multidisciplinary Artificial Intelligence  
-🏥 Previously: LLM-based Medical Document QnA and RAG pipelines in the Healthcare Sector @ Carelon Global Solutions 
-📄 Published at IEEE GCON 2023 on the Image Translation (Low illumination to Good illuminnation)for On-road Driving Conditions
-🎓 B.Tech in Engineering Physics and Mathematics and Computing @ IIT Guwahati  
+🏥 Previously: LLM-based Document Q&A and RAG pipelines in the Healthcare Sector @ Carelon Global Solutions  
+📄 Published at IEEE GCON 2023 on the Image Re-illumination for On-road Driving Conditions  
+🎓 B.Tech in Engineering Physics and minor in Mathematics and Computing @ IIT Guwahati  
 
 **Currently seeking Summer 2026 ML/Data Science internships**
 
